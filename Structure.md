@@ -1,5 +1,3 @@
----
-
 ## 📌 What are Structures in C?
 
 In **C language**, a **structure (`struct`)** is a user-defined data type that allows grouping of variables of **different data types** under a single name.
